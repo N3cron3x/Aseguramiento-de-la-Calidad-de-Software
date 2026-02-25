@@ -1,0 +1,4 @@
+=== REPORTE DE EJECUCIÓN SELENIUM ===
+Navegador: Microsoft Edge
+Sitio de prueba: SauceDemo (Swag Labs)
+

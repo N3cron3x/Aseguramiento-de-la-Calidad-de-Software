@@ -1,0 +1,6 @@
+test_flujo_completo_compra (__main__.PruebasAutomatizadasEdge.test_flujo_completo_compra) ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 6.040s
+
+OK
